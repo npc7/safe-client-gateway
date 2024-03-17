@@ -1551,12 +1551,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@safe-global/safe-deployments@npm:^1.33.0":
+"@safe-global/safe-deployments@npm:@bugeta/safe-deployments@*":
   version: 1.33.0
-  resolution: "@safe-global/safe-deployments@npm:1.33.0"
+  resolution: "@bugeta/safe-deployments@npm:1.33.0"
   dependencies:
     semver: "npm:^7.3.7"
-  checksum: 10/aec62182dfc5e1881220320d3d0efb59cc4c1e9cb080d4c628ae58681be37e94f2101de8d94fe0f2d0bf61aee4f444e1401b20df37ed4283592925ad1c24f93a
+  checksum: 10/099f98b1bbfa8ed968b8df71b98273f09c12fabf5e82285c064746295eac726a7c185fa0d4aa781a388f8e5fc461d20f0aafc6eb4a9821096bb13a5e7562389a
   languageName: node
   linkType: hard
 
